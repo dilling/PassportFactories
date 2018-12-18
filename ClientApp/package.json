@@ -10,9 +10,6 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "engines": {
-    "node": ">=8.11.3"
-  },
   "private": true,
   "dependencies": {
     "@angular/animations": "6.1.10",
@@ -52,6 +49,10 @@
     "karma-jasmine": "~1.1.1",
     "karma-jasmine-html-reporter": "^0.2.2",
     "typescript": "~2.7.2"
+  },
+  "engines": {
+    "node": ">= 8.0.0",
+    "npm": ">= 6.0.0"
   },
   "optionalDependencies": {
     "node-sass": "^4.9.3",
