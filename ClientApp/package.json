@@ -50,10 +50,6 @@
     "karma-jasmine-html-reporter": "^0.2.2",
     "typescript": "~2.7.2"
   },
-  "engines": {
-    "node": ">= 8.0.0",
-    "npm": ">= 6.0.0"
-  },
   "optionalDependencies": {
     "node-sass": "^4.9.3",
     "protractor": "~5.4.0",
