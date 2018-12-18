@@ -1,0 +1,3 @@
+<button class="btn-success" (click)="AddFactory()">Add Factory</button>
+
+<app-factory *ngFor="let factory of GetFactories()" [factory]="factory"></app-factory>
